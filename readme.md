@@ -5,3 +5,5 @@
 *Repositories
 *Github CLassroom
 *Permissions
+*Exercises
+*Automated Testing
