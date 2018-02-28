@@ -1,4 +1,4 @@
-#Assignments for the Week - Javascript Frameworks
+#Assignment 1 for the Week - Javascript Frameworks
 *1: Build a simple html structure web site with a link to https://www.github.com
 *2: Import Bootstrap andset up the divs and structure to be reactive for mobile
 *3: Using the Bootstrapped site, you will retrieve and display data from a web API call using one of multiple methods
@@ -6,3 +6,6 @@
 *3.2: From the original Bootstrapped version, Build a React.js version for the same data call
 *3.3: From the original Bootstrapped version, Build an angular(4/5) solution
 *3.4: From the original Bootstrapped version, Build a Vue.js version
+
+
+You will be branching these different versions from the original Bootstrapped version. This is an exercise to get you to understand how different frameworks work with javascript to complete tasks and functions in client-side web coding.
